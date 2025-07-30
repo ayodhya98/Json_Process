@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonProcessingApi", "JsonProcessingApi\JsonProcessingApi.csproj", "{31622E55-DB0E-4B68-A636-7DD212388444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageConsumerApi", "MessageConsumerApi\MessageConsumerApi.csproj", "{C6F84BF7-AEA5-4738-B47F-D873104A4849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31622E55-DB0E-4B68-A636-7DD212388444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31622E55-DB0E-4B68-A636-7DD212388444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31622E55-DB0E-4B68-A636-7DD212388444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31622E55-DB0E-4B68-A636-7DD212388444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F84BF7-AEA5-4738-B47F-D873104A4849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F84BF7-AEA5-4738-B47F-D873104A4849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F84BF7-AEA5-4738-B47F-D873104A4849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F84BF7-AEA5-4738-B47F-D873104A4849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3BB3D1-02CF-42D2-BC34-2DCAD887B6F9}
+	EndGlobalSection
+EndGlobal
